@@ -6,7 +6,7 @@ category: conferences
 permalink: 
 excerpt: 
 date: 2021-06-11
-venue: '3rd International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)'
+venue: 'HORA'
 paperurl: 
 citation: 
 ---
