@@ -1,5 +1,6 @@
 ---
 title: "Lightweigth Convolutional Neural Networks for Person Re-Identification"
+authors: "Fatih Aksu, Cem Direkoğlu"
 collection: publications
 category: conferences
 permalink: 
