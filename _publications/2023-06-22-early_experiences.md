@@ -1,6 +1,6 @@
 ---
 title: "Early Experiences on using Triplet Networks for Histological Subtype Classification in Non-Small Cell Lung Cancer"
-authors: "Fatih Aksu, Fabrizia Gelardi, Arturo Chiti, Paolo Soda"
+authors: "<u>Fatih Aksu</u>, Fabrizia Gelardi, Arturo Chiti, Paolo Soda"
 collection: publications
 category: manuscripts
 permalink: 
