@@ -9,5 +9,6 @@ date: 2024-12-02
 venue: 'AIBH @ BIBM'
 slidesurl: "/files/slides/2024_BIBM_slides.pdf"
 paperurl: "https://ieeexplore.ieee.org/document/10822421"
+codeurl: "https://github.com/aksufatih/multimodal-histology-classification"
 citation: 
 ---
