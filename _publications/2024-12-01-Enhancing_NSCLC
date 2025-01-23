@@ -8,7 +8,7 @@ excerpt: ''
 date: 2024-12-01
 venue: 'AIHA @ ICPR'
 paperurl: 
-slidesurl: "/files/slides/2024_ICPR_slides"
+slidesurl: "/files/slides/2024_ICPR_slides.pdf"
 codeurl: "https://github.com/aksufatih/federated-triplet-histology"
 citation: 
 ---
