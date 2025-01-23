@@ -36,7 +36,7 @@
           <p><b>{{post.title}}</b><br>
           {{post.authors}}<br>
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br>
-          {% elsif post.paperurl %}
+          {% if post.paperurl %}
             <a href=" {{ post.paperurl }} ">[Paper]</a>
           {% elsif post.slidesurl %}
             <a href="{{ post.slidesurl }}">[Slides]</a>
