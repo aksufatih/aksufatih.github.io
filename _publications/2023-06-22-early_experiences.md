@@ -7,7 +7,7 @@ permalink:
 excerpt: 
 date: 2023-06-22
 venue: 'CBMS'
-slidesurl:
-paperurl:
+paperurl: "https://ieeexplore.ieee.org/document/10178835"
+slidesurl: "/files/slides/2023_CBMS_slides.pdf"
 citation: 
 ---
