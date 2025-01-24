@@ -8,6 +8,6 @@ excerpt: ''
 date: 2020-11-30
 venue: 'Avrupa Bilim ve Teknoloji Dergisi'
 slidesurl: 
-paperurl: 
+paperurl: "https://dergipark.org.tr/en/pub/ejosat/article/823257"
 citation: 
 ---
