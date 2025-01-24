@@ -9,5 +9,6 @@ date: 2020-11-30
 venue: 'Avrupa Bilim ve Teknoloji Dergisi'
 paperurl: "https://dergipark.org.tr/en/pub/ejosat/article/823257"
 slidesurl: "/files/slides/2020_ISMSIT_slides.pdf"
+talkurl: "https://www.youtube.com/watch?v=h3tYepFBqdw&list=PL56cfKJzktXkiymrejuZy9pyoRR2t0QJ0&t=63s"
 citation: 
 ---
