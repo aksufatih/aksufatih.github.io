@@ -5,10 +5,10 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: ''
-date: 2024-12-31
-venue: 'Submitted to Information Fusion'
+date: 2025-03-25
+venue: 'Image and Vision Computing'
 slidesurl: 
-paperurl: "https://arxiv.org/abs/2408.02686"
+paperurl: "https://www.sciencedirect.com/science/article/pii/S0262885625000976"
 codeurl: "https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio"
 citation: 
 ---
