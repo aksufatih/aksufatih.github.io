@@ -7,7 +7,7 @@ permalink:
 excerpt: ''
 date: 2024-12-01
 venue: 'AIHA @ ICPR'
-paperurl: 
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-87660-8_12"
 slidesurl: "/files/slides/2024_ICPR_slides.pdf"
 codeurl: "https://github.com/aksufatih/federated-triplet-histology"
 citation: 
