@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Postdoctoral Researcher at <a href="https://www.umu.se/en/">Umeå University</a> in Sweden, where I work on generative foundation models for medical data. My current project, FLAME, builds on our 6.77-billion-parameter MedCoDi-M model to develop a multi-prompt foundation model that uses latent diffusion to generate multimodal medical data. It targets any-to-any generation across imaging modalities and clinical reports, longitudinal generation that simulates disease progression over multiple follow-ups, training with limited and unpaired data, and resilience to out-of-distribution data.
+Hello! I am a Postdoctoral Researcher at <a href="https://www.umu.se/en/">Umeå University</a> in Sweden, working on generative foundation models for multimodal medical data. My research focuses on latent diffusion models for cross-modal and longitudinal generation, learning from limited and unpaired data, and robustness to out-of-distribution data.
 
 Before this, my research focused on multimodal deep learning for medical imaging, developing diagnostic and prognostic tools for non-small cell lung cancer (NSCLC). I have also contributed to trustworthy AI research, focusing on triplet networks and federated learning approaches to enhance robustness and privacy in medical AI systems.
 
